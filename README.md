@@ -1,7 +1,17 @@
-# React Admin Dashboard
+# Admin Dashboard
 
-Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
+A fully responsive admin dashboard built with React, Material UI, Nivo Charts, and FullCalendar.
 
-Video: https://www.youtube.com/watch?v=wYpCWwD1oz0
+## Features
+- Dark/Light mode toggle
+- Interactive data tables with sorting and filtering
+- Line, Bar, Pie, and Geography charts
+- Calendar with event management
+- Form validation with Formik + Yup
+- Collapsible sidebar navigation
 
-For all related questions and discussions about this project, check out the discord: https://discord.gg/2FfPeEk2mX
+## Tech Stack
+React · Material UI · Nivo · FullCalendar · Formik · Yup · React Router
+
+## Author
+Paul Mutuku — Actuarial Analyst
