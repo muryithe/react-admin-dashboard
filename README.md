@@ -11,7 +11,6 @@ A fully responsive admin dashboard built with React, Material UI, Nivo Charts, a
 - Collapsible sidebar navigation
 
 
-Link: https://herdsmen-admin-dashboard.vercel.app/
 
 ## Tech Stack
 React · Material UI · Nivo · FullCalendar · Formik · Yup · React Router
